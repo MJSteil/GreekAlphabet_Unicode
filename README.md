@@ -1,5 +1,5 @@
 --------------------------------------------------------------------------------
-CLionLT_GreekUnicodeLetters
+GreekAlphabet_Unicode
 --------------------------------------------------------------------------------
 
 CLionLT_GreekUnicodeLetters is a Live Template for CLion <https://www.jetbrains.com/clion/> to replace the name of a greek letter with its unicode. For example the Live Template can replace "alpha" with "\u03b1".
