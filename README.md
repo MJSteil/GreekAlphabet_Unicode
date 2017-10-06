@@ -7,5 +7,6 @@ GreekAlphabet_Unicode is a Live Template for CLion <https://www.jetbrains.com/cl
 To use the Live Template GreekAlphabet_Unicode.xml has to be placed in
 - Windows: <your_user_home_directory>\.CLion<version_number>\config\templates
 - Linux: ~CLion<version>/config/templates   
-- macOS: ~/Library/Preferences/CLion<version>/templates  
-and CLion has to be restarted. 
+- macOS: ~/Library/Preferences/CLion<version>/templates
+  
+and CLion has to be restarted.
